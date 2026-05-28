@@ -41,3 +41,9 @@ description: Pomodoro Technique (番茄工作法) — time management method by 
 - ❌ Skipping breaks → burnout
 - ❌ Using for meetings or creative exploration
 - ❌ Not protecting the Pomodoro from interruptions
+
+## When to Use
+- You struggle to start tasks (procrastination)
+- Work feels scattered, with too many interruptions
+- You lose track of time on low-priority activities
+- Deep focus work that benefits from structured breaks

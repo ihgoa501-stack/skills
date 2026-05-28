@@ -69,6 +69,11 @@ Four values:
 
 ---
 
+## When to Use
+- Building software products with evolving requirements
+- Teams that benefit from regular feedback and iteration
+- Any project where early and continuous delivery adds value
+
 ## Choosing an Approach
 
 | Scenario | Recommend |

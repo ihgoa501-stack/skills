@@ -53,8 +53,8 @@ description: PDCA Cycle (戴明环 / Plan-Do-Check-Act) — iterative four-stage
 | Check | Week 4 avg = 7.5 hrs. Productivity survey +15%. |
 | Act | **Standardize:** permanent no-meeting Wednesday policy |
 
-## Best For
-- Process improvement
-- Quality management
-- Behavior change at team/org level
-- Kaizen (continuous improvement) initiatives
+## When to Use
+- A process has known defects that need systematic improvement
+- You've implemented a change and need to evaluate its effectiveness
+- Quality management or compliance requires documented improvement cycles
+- Team-level behavior change or Kaizen (continuous improvement)

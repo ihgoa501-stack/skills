@@ -53,3 +53,9 @@ Choose what to do by: **Context** → **Time available** → **Energy level** �
 - Digital: Todoist, Things 3, Omnifocus, Notion
 - Analog: Bullet Journal, index cards
 - Minimal: Single text file with sections
+
+## When to Use
+- You feel overwhelmed by too many tasks floating in your head
+- Tasks keep falling through the cracks
+- You want a single trusted system for everything
+- Weekly or daily planning sessions feel chaotic

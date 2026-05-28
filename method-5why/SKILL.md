@@ -45,6 +45,12 @@ Ask "Why?" repeatedly to drill from symptom to root cause. Not always exactly 5 
 - Root cause must be **fixable** and **preventable**
 - Stop at the right depth — 3 or 7 "whys" is fine
 
+## When to Use
+- A defect or incident has occurred and the surface cause is obvious but you suspect a deeper issue
+- A problem keeps recurring despite repeated fixes
+- Need to distinguish symptom from root cause in process analysis
+
 ## When NOT to Use
-- The cause is already well understood
+- The cause is already well understood and the fix is clear
 - Blame culture exists (people won't answer honestly)
+- The problem is a one-time event with obvious cause

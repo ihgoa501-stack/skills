@@ -49,3 +49,9 @@ Scale down any habit so it takes ≤2 minutes to start:
 - **Identity-based:** "I am a runner" (identity)
 
 Focus on the **type of person you want to become**, not just the outcome.
+
+## When to Use
+- You've tried big resolutions and they never stick
+- You want lasting behavior change, not a one-time push
+- Building new routines in a new environment (new job, move, new year)
+- Breaking bad habits that feel automatic

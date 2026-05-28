@@ -38,3 +38,9 @@ description: OKR (Objectives and Key Results) — goal-setting framework from In
 ## Cascading
 - **Company OKRs** → **Team OKRs** → **Individual OKRs**
 - Lower-level OKRs should connect to higher-level ones
+
+## When to Use
+- Quarterly or annual planning cycles
+- Aligning multiple teams around shared goals
+- You need ambitious stretch goals, not just incremental targets
+- Measuring progress toward a strategic vision

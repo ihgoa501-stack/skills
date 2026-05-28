@@ -40,3 +40,9 @@ description: Eisenhower Matrix (四象限法则 / Time Management Quadrant) — 
 - ❌ Living in Quadrant I all day (burnout mode)
 - ❌ Confusing "urgent" with "important"
 - ❌ Feeling productive from clearing Quadrant III busywork
+
+## When to Use
+- Your day feels reactive — you're always putting out fires
+- You're overloaded and need to decide what to drop
+- Delegating tasks to others and need a clear framework
+- Weekly review / planning — decide where your energy should go
