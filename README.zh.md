@@ -23,7 +23,7 @@ AI Agent 技能库 — 模块化、可复用的 Claude Code / Codex 能力扩展
 
 | 技能 | 说明 | 适用场景 |
 |------|------|---------|
-| [method-5why](method-5why/) | **5WHY 分析法** — 丰田根本原因追溯 | 问题重复发生、需要从表象深挖到系统根因 |
+| [method-5why-3how](method-5why-3how/) | **5Why + 3How** — 根因分析 + 对策制定 | 问题重复发生、需从3个维度深挖根因并制定系统对策 |
 | [method-pdca](method-pdca/) | **PDCA 循环** — 计划-执行-检查-改进 | 流程优化、质量管理、需要系统性验证改进效果 |
 | [method-first-principles](method-first-principles/) | **第一性原理** — 回归基本面重建 | 创新瓶颈、行业假设值得怀疑、需要突破性方案 |
 | [method-inversion](method-inversion/) | **逆向思维** — 反向思考避免失败 | 过度乐观的计划、高风险决策需要识别盲点 |
