@@ -1,40 +1,61 @@
-# Skills
+# Skills / 技能库
 
 AI Agent skills collection — modular, reusable capability extensions for Claude Code and Codex.
+AI Agent 技能库 — 模块化、可复用的 Claude Code / Codex 能力扩展。
 
-## Directory
+---
 
-| Skill | Description | 适用场景 |
+## 📋 Directory / 目录
+
+### 🧘 Personal Productivity / 个人效率
+
+| Skill / 技能 | Description / 说明 | When to Use / 适用场景 |
 |-------|-------------|---------|
-| [method-gtd](method-gtd/) | GTD — Getting Things Done | 任务堆积、事务繁多、需要一个可靠系统清空大脑 |
-| [method-pomodoro](method-pomodoro/) | 番茄工作法 — 专注时间与休息循环 | 拖延症、注意力分散、需要结构化专注 |
-| [method-5why](method-5why/) | 5WHY 分析法 — 根因追溯 | 故障复盘、问题重复发生、从表象深挖到底层 |
-| [method-pdca](method-pdca/) | PDCA 循环 — 持续改进 | 流程优化、质量管理、需要系统性验证改进效果 |
-| [method-okr](method-okr/) | OKR — 目标与关键成果 | 季度/年度规划、跨团队对齐、需要富有挑战的目标 |
-| [method-smart](method-smart/) | SMART 原则 — 目标设定准则 | 制定清晰可衡量的目标、项目里程碑定义 |
-| [method-eisenhower-matrix](method-eisenhower-matrix/) | 四象限法则 — 紧急×重要优先级 | 整天救火、任务过载、需要决定哪些事该放弃 |
-| [method-agile](method-agile/) | 敏捷开发 — Scrum / Kanban / XP | 需求不断变化的产品开发、需要快速反馈迭代 |
-| [method-atomic-habits](method-atomic-habits/) | 原子习惯 — 微小改变复合效应 | 习惯养成失败、想要持久的自我改变 |
-| [method-first-principles](method-first-principles/) | 第一性原理 — 回归基本面 | 创新瓶颈、行业假设值得怀疑、需要突破性方案 |
-| [method-inversion](method-inversion/) | 逆向思维 — 反向思考避免失败 | 过度乐观的计划、需要识别盲点的高风险决策 |
-| [method-six-thinking-hats](method-six-thinking-hats/) | 六顶思考帽 — 平行思维切换 | 团队意见冲突、需要结构化的会议讨论 |
-| [method-ooda](method-ooda/) | OODA 循环 — 观察-定向-决策-行动 | 竞争激烈的环境、危机响应、需要快速适应变化 |
-| [method-pareto](method-pareto/) | 二八法则 — 80%效果来自20%投入 | 优先级过多、资源有限、需要找到高杠杆环节 |
-| [method-eat-the-frog](method-eat-the-frog/) | 吃青蛙 — 最难的事优先做 | 重要的事情一直被拖延、早上效率最高 |
-| [method-time-blocking](method-time-blocking/) | 时间块管理 — 日历预定时间 | 整天在被动响应、重要工作被推到"之后" |
-| [method-moscow](method-moscow/) | MoSCoW 优先级法 — Must/Should/Could/Won't | MVP 范围界定、待办项过多、需要明确排出放弃项 |
-| [method-bullet-journal](method-bullet-journal/) | 子弹笔记 — 符号化手账系统 | 喜欢手写记录、现有工具过于僵化、想要可自由定制的系统 |
-| [method-swot](method-swot/) | SWOT 分析 — 优劣势/机会/威胁 | 战略规划、产品发布前评估、个人职业规划 |
-| [method-mece](method-mece/) | MECE 原则 — 相互独立完全穷尽 | 复杂问题分解、分析报告框架搭建、数据分类 |
-| [method-design-thinking](method-design-thinking/) | 设计思维 — 以人为本的创新 | 新产品的用户需求探索、模糊问题需要结构化方法 |
-| [method-rice](method-rice/) | RICE 打分法 — Reach/Impact/Confidence/Effort | 不同类项目难比较、请求方都说"这是最高优先级" |
+| [method-gtd](method-gtd/) | **GTD** — Getting Things Done / 搞定 | 任务堆积、事务繁多，需要一个可靠系统清空大脑 / Overwhelmed by too many tasks, need a trusted external system |
+| [method-pomodoro](method-pomodoro/) | **Pomodoro** — 番茄工作法 | 拖延症、注意力分散、需要结构化专注 / Struggling to start tasks, need structured focus |
+| [method-eisenhower-matrix](method-eisenhower-matrix/) | **Eisenhower Matrix** — 四象限法则 | 整天救火、任务过载、需决定放弃哪些 / Reactive days, overloaded, need to decide what to drop |
+| [method-atomic-habits](method-atomic-habits/) | **Atomic Habits** — 原子习惯 | 习惯养成失败、想要持久的自我改变 / Big resolutions never stick, want lasting behavior change |
+| [method-eat-the-frog](method-eat-the-frog/) | **Eat the Frog** — 吃青蛙 | 重要的事总被拖延、早上效率最高 / Important things keep getting delayed, most energy in the morning |
+| [method-time-blocking](method-time-blocking/) | **Time Blocking** — 时间块管理 | 整天被动响应、重要工作被推到"之后" / Reactive all day, deep work keeps getting postponed |
+| [method-bullet-journal](method-bullet-journal/) | **Bullet Journal** — 子弹笔记 | 喜欢手写、现有工具太僵化、要可定制的系统 / Prefer pen and paper, existing tools feel rigid |
+| [method-pareto](method-pareto/) | **Pareto (80/20)** — 二八法则 | 优先级过多、资源有限、要找高杠杆环节 / Too many priorities, resource-constrained, need leverage |
 
-## Usage
+### 🧠 Problem Solving & Decision Making / 问题分析与决策
+
+| Skill / 技能 | Description / 说明 | When to Use / 适用场景 |
+|-------|-------------|---------|
+| [method-5why](method-5why/) | **5WHY** — 根本原因分析 | 问题重复发生，需从表象深挖到系统根因 / Recurring problems, need to drill from symptom to root cause |
+| [method-pdca](method-pdca/) | **PDCA** — 计划-执行-检查-改进 | 流程优化、质量管理、需系统性验证改进 / Process improvement, quality management, need documented improvement cycles |
+| [method-first-principles](method-first-principles/) | **First Principles** — 第一性原理 | 创新瓶颈、行业假设值得怀疑、要突破性方案 / Stuck in conventional thinking, need breakthrough innovation |
+| [method-inversion](method-inversion/) | **Inversion** — 逆向思维 | 过度乐观的计划、需识别盲点的高风险决策 / Over-optimistic planning, high-stakes decisions needing blind-spot analysis |
+| [method-six-thinking-hats](method-six-thinking-hats/) | **Six Thinking Hats** — 六顶思考帽 | 团队意见冲突、需要结构化多视角讨论 / Conflicting team opinions, need structured multi-perspective discussion |
+| [method-ooda](method-ooda/) | **OODA Loop** — 观察-定向-决策-行动 | 竞争激烈、需要快速适应变化的环境 / Competitive environments needing fast adaptation |
+| [method-mece](method-mece/) | **MECE** — 相互独立完全穷尽 | 复杂问题分解、分析报告框架搭建、数据分类 / Decomposing complex problems, report structuring, data categorization |
+
+### 🏢 Team & Strategy / 团队与规划
+
+| Skill / 技能 | Description / 说明 | When to Use / 适用场景 |
+|-------|-------------|---------|
+| [method-agile](method-agile/) | **Agile** — Scrum / Kanban / XP 敏捷开发 | 需求不断变化的产品开发，需快速反馈迭代 / Evolving requirements, need fast feedback and iteration |
+| [method-okr](method-okr/) | **OKR** — 目标与关键成果 | 季度/年度规划、跨团队对齐、需要富有挑战的目标 / Quarterly/annual planning, cross-team alignment, ambitious goals |
+| [method-smart](method-smart/) | **SMART** — 目标设定准则 | 制定清晰可衡量的目标、项目里程碑定义 / Need clear success criteria and measurable objectives |
+| [method-moscow](method-moscow/) | **MoSCoW** — Must/Should/Could/Won't | MVP范围界定、待办项过多需排出放弃项 / Defining MVP scope, too many items, need explicit "won't" decisions |
+| [method-swot](method-swot/) | **SWOT** — 优劣势/机会/威胁 | 战略规划、产品发布前评估、个人职业规划 / Strategic planning, pre-launch assessment, career planning |
+| [method-design-thinking](method-design-thinking/) | **Design Thinking** — 设计思维 | 新产品的用户需求探索、模糊问题的结构化方法 / Exploring user needs for new products, tackling ambiguous problems |
+| [method-rice](method-rice/) | **RICE** — Reach/Impact/Confidence/Effort | 不同类项目比较困难、多个需求方都说"最高优先级" / Hard to compare different project types, everyone claims "top priority" |
+
+---
+
+## 🚀 Usage / 使用方式
+
+**Install a skill / 安装技能：**
 
 ```bash
 # Clone the repo
 git clone https://github.com/ihgoa501-stack/skills.git
 
-# Symlink or copy a skill into your Claude skills directory
-ln -s "$(pwd)/work-methodology" ~/.claude/skills/work-methodology
+# Symlink a skill into your Claude skills directory / 将技能链接到 Claude 技能目录
+ln -s "$(pwd)/method-gtd" ~/.claude/skills/method-gtd
+# Or symlink all at once / 或一次性全部链接：
+for d in $(ls -d method-*); do ln -sf "$(pwd)/$d" ~/.claude/skills/"$d"; done
 ```
