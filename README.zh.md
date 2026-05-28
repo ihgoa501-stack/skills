@@ -23,6 +23,7 @@ AI Agent 技能库 — 模块化、可复用的 Claude Code / Codex 能力扩展
 
 | 技能 | 说明 | 适用场景 |
 |------|------|---------|
+| [method-golden-circle](method-golden-circle/) | **黄金圈法则** — Why→How→What | 品牌定位、激励团队、战略决策 — 先问为什么再做 |
 | [method-5why-3how](method-5why-3how/) | **5Why + 3How** — 根因分析 + 对策制定 | 问题重复发生、需从3个维度深挖根因并制定系统对策 |
 | [method-pdca](method-pdca/) | **PDCA 循环** — 计划-执行-检查-改进 | 流程优化、质量管理、需要系统性验证改进效果 |
 | [method-first-principles](method-first-principles/) | **第一性原理** — 回归基本面重建 | 创新瓶颈、行业假设值得怀疑、需要突破性方案 |
