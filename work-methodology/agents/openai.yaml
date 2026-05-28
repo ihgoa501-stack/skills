@@ -1,0 +1,4 @@
+interface:
+  display_name: "工作法大全"
+  short_description: "常用工作法参考手册 — GTD、番茄工作法、5WHY、PDCA、OKR、四象限、敏捷开发等"
+  default_prompt: "列出常用的工作方法论并给出简要说明"
