@@ -42,6 +42,7 @@ AI Agent 技能库 — 模块化、可复用的 Claude Code / Codex 能力扩展
 | [method-okr](method-okr/) | **OKR** — 目标与关键成果 | 季度/年度规划、跨团队对齐、需要富有挑战的目标 / Quarterly/annual planning, cross-team alignment, ambitious goals |
 | [method-smart](method-smart/) | **SMART** — 目标设定准则 | 制定清晰可衡量的目标、项目里程碑定义 / Need clear success criteria and measurable objectives |
 | [method-moscow](method-moscow/) | **MoSCoW** — Must/Should/Could/Won't | MVP范围界定、待办项过多需排出放弃项 / Defining MVP scope, too many items, need explicit "won't" decisions |
+| [method-mvp](method-mvp/) | **MVP** — Minimum Viable Product / 最小可行产品 | 新产品探索、避免过度建设、需快速实验验证 / New product validation, avoid overbuilding, need fast learning loops |
 | [method-swot](method-swot/) | **SWOT** — 优劣势/机会/威胁 | 战略规划、产品发布前评估、个人职业规划 / Strategic planning, pre-launch assessment, career planning |
 | [method-design-thinking](method-design-thinking/) | **Design Thinking** — 设计思维 | 新产品的用户需求探索、模糊问题的结构化方法 / Exploring user needs for new products, tackling ambiguous problems |
 | [method-rice](method-rice/) | **RICE** — Reach/Impact/Confidence/Effort | 不同类项目比较困难、多个需求方都说"最高优先级" / Hard to compare different project types, everyone claims "top priority" |

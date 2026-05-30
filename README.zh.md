@@ -41,6 +41,7 @@ AI Agent 技能库 — 模块化、可复用的 Claude Code / Codex 能力扩展
 | [method-okr](method-okr/) | **OKR** — 目标与关键成果 | 季度/年度规划、跨团队对齐、需要富有挑战的目标 |
 | [method-smart](method-smart/) | **SMART 原则** — 目标设定准则 | 制定清晰可衡量的目标、项目里程碑定义 |
 | [method-moscow](method-moscow/) | **MoSCoW 优先级法** — Must/Should/Could/Won't | MVP 范围界定、待办项过多需要明确排出放弃项 |
+| [method-mvp](method-mvp/) | **MVP 最小可行产品** — 用最少投入验证核心假设 | 新产品探索、避免过度建设、需快速实验获取真实验证 |
 | [method-swot](method-swot/) | **SWOT 分析** — 优劣势/机会/威胁 | 战略规划、产品发布前评估、个人职业规划 |
 | [method-design-thinking](method-design-thinking/) | **设计思维** — 以人为本的创新方法 | 新产品的用户需求探索、模糊问题需要结构化方法 |
 | [method-rice](method-rice/) | **RICE 打分法** — Reach/Impact/Confidence/Effort | 不同类型项目难比较、各方都说"这是最高优先级" |
