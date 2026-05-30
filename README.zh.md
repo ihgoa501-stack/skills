@@ -28,6 +28,7 @@ AI Agent 技能库 — 模块化、可复用的 Claude Code / Codex 能力扩展
 | [method-pdca](method-pdca/) | **PDCA 循环** — 计划-执行-检查-改进 | 流程优化、质量管理、需要系统性验证改进效果 |
 | [method-first-principles](method-first-principles/) | **第一性原理** — 回归基本面重建 | 创新瓶颈、行业假设值得怀疑、需要突破性方案 |
 | [method-inversion](method-inversion/) | **逆向思维** — 反向思考避免失败 | 过度乐观的计划、高风险决策需要识别盲点 |
+| [method-devils-advocate](method-devils-advocate/) | **魔鬼代言人** — 刻意扮演反方挑战提案 | 决策太顺利、团队陷入群体思维、需要给方案"压力测试" |
 | [method-six-thinking-hats](method-six-thinking-hats/) | **六顶思考帽** — 平行思维切换 | 团队意见冲突、需要结构化的多视角讨论 |
 | [method-ooda](method-ooda/) | **OODA 循环** — 观察-定向-决策-行动 | 竞争激烈、对手行动快、需要快速适应变化 |
 | [method-mece](method-mece/) | **MECE 原则** — 相互独立完全穷尽 | 复杂问题分解、分析报告框架搭建、数据分类 |

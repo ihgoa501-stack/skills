@@ -29,6 +29,7 @@ AI Agent 技能库 — 模块化、可复用的 Claude Code / Codex 能力扩展
 | [method-pdca](method-pdca/) | **PDCA** — 计划-执行-检查-改进 | 流程优化、质量管理、需系统性验证改进 / Process improvement, quality management, need documented improvement cycles |
 | [method-first-principles](method-first-principles/) | **First Principles** — 第一性原理 | 创新瓶颈、行业假设值得怀疑、要突破性方案 / Stuck in conventional thinking, need breakthrough innovation |
 | [method-inversion](method-inversion/) | **Inversion** — 逆向思维 | 过度乐观的计划、需识别盲点的高风险决策 / Over-optimistic planning, high-stakes decisions needing blind-spot analysis |
+| [method-devils-advocate](method-devils-advocate/) | **Devil's Advocate** — 魔鬼代言人 | 决策太顺利、团队陷入群体思维、需压力测试 / Smooth consensus feels wrong, groupthink danger, need to stress-test proposals |
 | [method-six-thinking-hats](method-six-thinking-hats/) | **Six Thinking Hats** — 六顶思考帽 | 团队意见冲突、需要结构化多视角讨论 / Conflicting team opinions, need structured multi-perspective discussion |
 | [method-ooda](method-ooda/) | **OODA Loop** — 观察-定向-决策-行动 | 竞争激烈、需要快速适应变化的环境 / Competitive environments needing fast adaptation |
 | [method-mece](method-mece/) | **MECE** — 相互独立完全穷尽 | 复杂问题分解、分析报告框架搭建、数据分类 / Decomposing complex problems, report structuring, data categorization |
