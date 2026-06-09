@@ -1,0 +1,4 @@
+interface:
+  display_name: "付出"
+  short_description: "像顾问一样帮你全面分析做某件事要付出的时间、金钱、精力等各类成本"
+  default_prompt: "用 fu-chu 帮我分析做这件事需要付出什么代价"
